@@ -8,8 +8,8 @@ namespace NanoApp
 {
     internal class WifiConnection
     {
-        const string MYSSID = "COZINHA";
-        const string MYPASSWORD = "juniormarcelo2020";
+        const string MYSSID = "***";
+        const string MYPASSWORD = "***";
 
         public static void SetupAndConnectNetwork()
         {
